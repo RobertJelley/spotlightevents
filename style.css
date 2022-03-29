@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(12, 12, 12);
+    color: blanchedalmond;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    }
+
+img {
+    width: auto;
+    height: 90px;
+}
+
+h1 {
+    display: inline-flex;
+    justify-content: right;
+}

@@ -12,8 +12,3 @@ img {
     width: auto;
     height: 90px;
 }
-
-h1 {
-    display: inline-flex;
-    justify-content: right;
-}

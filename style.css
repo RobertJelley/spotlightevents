@@ -4,7 +4,7 @@ body {
   background: #0c0c0c;
 }
 .navbar {
-  background:#d6e419;
+  background:#080808;
 }
 .nav-link,
 .navbar-brand {
@@ -33,7 +33,7 @@ body {
   min-width: 100%;
   left: 0;
   top: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.9);
 }
 .description {
 	left: 50%;
@@ -43,7 +43,9 @@ body {
 	text-align: center;
 }
 .description h1 {
-	color: #d6e419;
+  display: flex;
+  position: relative;
+	color: #fafafa;
 }
 .description p {
 	color: #fff;
